@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi! I'm Esteban
 
-<!--
-**EstebanSD/EstebanSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full Stack** developer with focus on building scalable and well-designed products, using modern technologies such as **NestJS**, **Next.js**, **MongoDB**, among others.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on my portfolio and some personal projects
+- 🌱 Learning best practices for testing, scalable architecture and performance
+- 💬 I am interested in backend, DevOps, and user experience.
+- 📫 Contact: [estebansalvaydilena@gmail.com](mailto:estebansalvaydilena@gmail.com) · [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/esteban-salvay-dilena))
+
+## 🛠️ Tech
+
+**Frontend:** React, Next.js, Tailwind, ShadCN  
+**Backend:** NestJS, Node.js, Express  
+**Data Bases:** MongoDB  
+**Others:** Docker, Git, AWS-S3, AWS-SES, Cloudinary, Firebase...
+
+## 📁 Repositorios destacados
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=portfolio&theme=default)](https://github.com/tuusuario/portfolio)
+
+[![API NestJS](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=portfolio-api&theme=default)](https://github.com/tuusuario/portfolio-api)
+
+## 📊 GitHub Stats
+
+![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=default&hide=prs)
+
+<!-- Puedes agregar más cosas como contributions graph, streaks, badges, etc. -->
