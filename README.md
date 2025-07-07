@@ -9,14 +9,14 @@ I am a **Full Stack** developer with focus on building scalable and well-designe
 - 💬 I am interested in backend, DevOps, and user experience.
 - 📫 Contact: [estebansalvaydilena@gmail.com](mailto:estebansalvaydilena@gmail.com) · [LinkedIn](https://www.linkedin.com/in/esteban-salvay-dilena)
 
-## 🛠️ Tech
+## 🛠️ Technologies
 
 **Frontend:** React, Next.js, Tailwind, ShadCN  
 **Backend:** NestJS, Node.js, Express  
 **Data Bases:** MongoDB  
 **Others:** Docker, Git, AWS-S3, AWS-SES, Cloudinary, Firebase...
 
-## 📁 Repositorios destacados
+## 📁 Featured repositories
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EstebanSD&repo=portfolio-frontend&theme=default)](https://github.com/EstebanSD/portfolio-frontend)
 
