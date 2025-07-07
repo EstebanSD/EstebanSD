@@ -18,12 +18,12 @@ I am a **Full Stack** developer with focus on building scalable and well-designe
 
 ## 📁 Repositorios destacados
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=portfolio&theme=default)](https://github.com/EstebanSD/portfolio-frontend)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=EstebanSD&repo=portfolio-frontend&theme=default)](https://github.com/EstebanSD/portfolio-frontend)
 
-[![API NestJS](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=portfolio-api&theme=default)](https://github.com/EstebanSD/core-api)
+[![API NestJS](https://github-readme-stats.vercel.app/api/pin/?username=EstebanSD&repo=core-api&theme=default)](https://github.com/EstebanSD/core-api)
 
 ## 📊 GitHub Stats
 
-![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=default&hide=prs)
+![Esteban's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstebanSD&show_icons=true&theme=default&hide=prs)
 
 <!-- Puedes agregar más cosas como contributions graph, streaks, badges, etc. -->
