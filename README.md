@@ -7,7 +7,7 @@ I am a **Full Stack** developer with focus on building scalable and well-designe
 - 🔭 Currently working on my portfolio and some personal projects
 - 🌱 Learning best practices for testing, scalable architecture and performance
 - 💬 I am interested in backend, DevOps, and user experience.
-- 📫 Contact: [estebansalvaydilena@gmail.com](mailto:estebansalvaydilena@gmail.com) · [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/esteban-salvay-dilena))
+- 📫 Contact: [estebansalvaydilena@gmail.com](mailto:estebansalvaydilena@gmail.com) · [LinkedIn](https://www.linkedin.com/in/esteban-salvay-dilena)
 
 ## 🛠️ Tech
 
@@ -18,9 +18,9 @@ I am a **Full Stack** developer with focus on building scalable and well-designe
 
 ## 📁 Repositorios destacados
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=portfolio&theme=default)](https://github.com/tuusuario/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=portfolio&theme=default)](https://github.com/EstebanSD/portfolio-frontend)
 
-[![API NestJS](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=portfolio-api&theme=default)](https://github.com/tuusuario/portfolio-api)
+[![API NestJS](https://github-readme-stats.vercel.app/api/pin/?username=tuusuario&repo=portfolio-api&theme=default)](https://github.com/EstebanSD/core-api)
 
 ## 📊 GitHub Stats
 
